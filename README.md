@@ -8,20 +8,20 @@ I was told to Recreate the Dribbble design from https://dribbble.com/shots/14774
 
 in his own words
 
-"In this task, you are building a simple onboarding UI to test your knowledge of buttons. You will be all you have learnt so far to do this. Additionally, read up on the RichText widget and how to use it as you will be needing it."
+"In this task, you are building a simple onboarding UI to test your knowledge of buttons. You will be using all you have learnt so far to do this. Additionally, read up on the RichText widget and how to use it as you will be needing it."
 
 i did exactly as told!.
 
 Screenshot of my results
 
 **GET STARTED SCREEN, MY LAPTOP VIEW**
-![Get Started Pc]()
+![Get Started Pc](https://github.com/emexbazz/sign_in_screen/blob/master/images/GetStartedFull.png)
 
 **GET STARTED PHONE SCREEN**
-![Get Started Phone]()
+![Get Started Phone](https://github.com/emexbazz/sign_in_screen/blob/master/images/GetStartedPhone.png)
 
 **SIGN IN SCREEN MY LAPTOP VIEW**
-![Sign in Pc]()
+![Sign in Pc](https://github.com/emexbazz/sign_in_screen/blob/master/images/SigninFUll.png)
 
 **SIGN IN PHONE SCREEN**
-![Sign in Phone]()
+![Sign in Phone](https://github.com/emexbazz/sign_in_screen/blob/master/images/SigninPhone.png)
